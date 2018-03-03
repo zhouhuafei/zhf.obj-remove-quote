@@ -1,6 +1,6 @@
 {
     "name": "zhf.obj-remove-quote",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "移除json对象和数组的引用",
     "main": "dist/index.min.js",
     "scripts": {
